@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'spring-azure-demo-main-2212'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B45D0347EF3741FBAFAF7C20CCA92BE2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E089CD5249AD47CA8C5F8E7E8E421180 }}
           package: '*.jar'
